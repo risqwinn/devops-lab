@@ -12,3 +12,10 @@ Project latihan DevOps Bulan 1 dan 2.
 ## Tujuan
 Membangun dan menjalankan website sederhana
 di server Ubuntu menggunakan Nginx.
+
+## Status Project
+
+- [x] Repository Git dibuat
+- [x] Commit pertama berhasil
+- [x] Repository terhubung ke GitHub
+- [x] Push pertama berhasil
